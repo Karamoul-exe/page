@@ -1,0 +1,58 @@
+@font-face {font-family: yess; src: url(Patrician.ttf)}
+
+body{
+	font-family: yess;
+	background-image: url(backimage.jpg) ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: grey;
+	background-attachment: fixed;
+}
+
+h1{
+	font-size: 50px;
+	background-image: url(backtitle.jpg);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin-right: 20px;
+	margin-left: -10px;
+	background-repeat: no-repeat;
+}
+
+h2{
+	font-size: 35px;
+	background-image: url(backtitle.jpg);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	margin-top: 60px;
+	margin-right: 20px;
+	margin-left: -10px;
+	margin-bottom: 60px;
+	background-repeat: no-repeat;
+}
+
+h3{
+	font-size: 45px;
+}
+p{
+	font-size: x-large;
+	background-image: url(backtitle.jpg);
+	background-size: 80%;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: -50px;
+	border: black;
+	border-width: 3px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#gifproc{
+	width: 30%;
+	margin-left: 1270px;
+	margin-bottom: -300px;
+	margin-top: -100px ;
+
+}

@@ -1,0 +1,17 @@
+/* css sert a la mise en page de l'html */
+
+body{
+	background-color: green;
+	color: red;
+	background-image: url(letsgo.jpg);
+	background-size: 100% ;
+}
+div{
+	font-weight: bold;
+	color: gold;
+	font-size: 30px;
+}
+h2,h3{
+	color: red;
+	text-align: center;
+}
